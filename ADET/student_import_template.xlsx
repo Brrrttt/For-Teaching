@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /api/sections/cd27ea36-0331-48d4-ba94-86d93b3bce4d/enrollments/template</pre>
+</body>
+</html>

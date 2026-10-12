@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot GET /api/students/sections/a6bb7307-0363-44e7-b955-085568bc03db/students/template</pre>
+</body>
+</html>
